@@ -1,0 +1,6 @@
+server:
+  port: 8080
+aws:
+  region: "us-east-1"
+  accessKey: "AKIAUVBT5ORBU4Z3YNVV"
+  secretKey: "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"
